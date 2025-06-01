@@ -28,4 +28,3 @@ tasks.register('smokeTest', Test) {
         includeTags 'smoke', 'api'
     }
 }
-
