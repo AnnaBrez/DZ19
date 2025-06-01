@@ -48,4 +48,5 @@ public class LocatorTests {
         byTag.sendKeys("byTag");
         Thread.sleep(1000);
     }
+
 }
