@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb018d68-6ae7-484d-a85f-aec86e828274" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_16_06_2025_10_28_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ExtendedBasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ExtendedBasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/FactoryWebPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/FactoryWebPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/WebDriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/WebDriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BasicLoginPageTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BasicLoginPageTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,12 +27,30 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="DZ19" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DZ19" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DZ19" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DZ19" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
               </path>
             </expand>
             <select />
@@ -42,6 +67,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="DZ23" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -65,38 +95,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.DZ19 [:SeleniumTests.main()].executor": "Run",
-    "Gradle.DZ19 [:TitleTest.main()].executor": "Run",
-    "Gradle.DZ19.executor": "Run",
-    "Gradle.LocatorTests.baseLocatorsTest.executor": "Run",
-    "Gradle.LocatorTests.executor": "Run",
-    "Gradle.SeleniumTests.executor": "Run",
-    "Gradle.SeleniumTests.openHomePageTests.executor": "Run",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/dbrez/IdeaProjects/DZ19",
-    "onboarding.tips.debug.path": "C:/Users/dbrez/IdeaProjects/DZ19/src/main/java/brezitskaya/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.BasicLoginPageTests.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Chapter4.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Chapter4.iframesTests.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.DZ19 [:SeleniumTests.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.DZ19 [:TitleTest.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.DZ19.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.DownloadTests.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LocatorTests.baseLocatorsTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LocatorTests.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SeleniumTests.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SeleniumTests.openHomePageTests.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.WebDriveTests.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.WebDriveTests.fileLoad.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;#4 on DZ23&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dbrez/IdeaProjects/DZ19&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/dbrez/IdeaProjects/DZ19/src/main/java/brezitskaya/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Gradle.LocatorTests.baseLocatorsTest">
-    <configuration name="SeleniumTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SeleniumTests" />
-      <module name="DZ19.test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TitleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TitleTest" />
-      <module name="DZ19.test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LocatorTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+}</component>
+  <component name="RunManager" selected="Gradle.SeleniumTests">
+    <configuration name="BasicLoginPageTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -109,7 +132,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;LocatorTests&quot;" />
+            <option value="&quot;BasicLoginPageTests&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -120,7 +143,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="LocatorTests.baseLocatorsTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Chapter4" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -133,7 +156,55 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;LocatorTests.baseLocatorsTest&quot;" />
+            <option value="&quot;Chapter4&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Chapter4.iframesTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;Chapter4.iframesTests&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="DownloadTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;DownloadTests&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -168,13 +239,33 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.LocatorTests.baseLocatorsTest" />
-        <item itemvalue="Gradle.LocatorTests" />
         <item itemvalue="Gradle.SeleniumTests" />
-        <item itemvalue="Application.TitleTest" />
-        <item itemvalue="Application.SeleniumTests" />
+        <item itemvalue="Gradle.BasicLoginPageTests" />
+        <item itemvalue="Gradle.DownloadTests" />
+        <item itemvalue="Gradle.Chapter4.iframesTests" />
+        <item itemvalue="Gradle.Chapter4" />
       </list>
     </recent_temporary>
   </component>
@@ -189,6 +280,29 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/DZ23" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -196,6 +310,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/brezitskaya/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pages/FactoryWebPage.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/patterns/WebDriverFactory.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DownloadTests.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

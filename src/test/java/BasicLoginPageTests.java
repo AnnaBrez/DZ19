@@ -3,10 +3,13 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import pages.BasicLoginPage;
+import steps.AllureSteps;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
 class BasicLoginPageTests {
+
     WebDriver driver;
     BasicLoginPage login;
 

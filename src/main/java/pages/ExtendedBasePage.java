@@ -8,7 +8,7 @@ import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.slf4j.Logger;
-import  patterns.WebDriverFactory;
+import patterns.WebDriverFactory;
 
 import java.time.Duration;
 
@@ -22,6 +22,10 @@ public class ExtendedBasePage {
     WebDriverWait wait;
     int timeoutSec = 5;
 
+    public ExtendedBasePage(String browser) {
+        driver = WebDriverFactory.createWebDriver(browser);
+        wait = new WebDriverWait(driver, Duration.ofSeconds(timeoutSec));
+    }
 
     public ExtendedBasePage(WebDriver driver) {
         this.driver = driver;
